@@ -36,6 +36,14 @@ The database component of my Travlr Getaways application demonstrates the use of
 
 **Planned enhancement:** Review data validation, database operations, error handling, and query performance.
 
+## Professional Code Review
+
+A recorded walkthrough demonstrating code analysis, software development knowledge, and professional code review practices.
+
+[Watch Code Review Video] https://youtu.be/hhoPgH6reRk
+
+[View Code Review Documentation] https://snhu-media.snhu.edu/files/course_repository/undergraduate/cs/cs499/cs499_code_review_checklist.pdf
+
 ## Professional Goals
 
 I plan to continue developing my computer science skills and apply them to software development opportunities. This portfolio will document my progress, highlight my technical abilities, and demonstrate my approach to solving programming challenges.
